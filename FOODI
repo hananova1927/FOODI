@@ -1,0 +1,27 @@
+FOODIE - Food Delivery Website 
+
+Welcome to FOODIE, a modern, responsive, and interactive food delivery landing page website. This project is built using HTML, CSS, and modern JavaScript to deliver a smooth and engaging user experience for ordering delicious meals!
+
+---
+
+Features
+
+1.Fully Responsive Design: Works beautifully on laptops, tablets, and mobile devices.
+2. Interactive Ordering System:Users can click "Order Now" on any specific food category, and the website will automatically scroll them down and pre-fill the order form with their chosen meal!
+3.Form Validation: Smart JavaScript checks if the user entered their name and phone number correctly before allowing them to place an order.
+4. Smooth Scrolling: Clean navigation links that slide smoothly to different sections (`Home`, `Menu`, `About`, `Contact`).
+5. Beautiful UI/UX:Warm and appetizing color palette with modern hover effects on buttons and images.
+
+---
+
+technologies Used (የተጠቀምናቸው ቴክኖሎጂዎች)
+
+HTML5- For structuring the clean and semantic content.
+CSS3- For modern styling, colors, custom fonts, transitions, and layout design.
+javaScript (ES6) - For DOM manipulation, scroll effects, and order form validation.
+
+How to Run the Project
+
+1. Clone or download this repository to your local computer:
+   ```bash
+   git clone [https://github.com/your-username/FOODIE.git](https://github.com/your-username/FOODIE.git)
